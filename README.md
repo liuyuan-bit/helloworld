@@ -12,3 +12,5 @@ v9
 v10
 v11
 beta
+up
+down
